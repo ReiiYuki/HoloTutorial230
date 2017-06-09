@@ -9,7 +9,7 @@ HoloTutorial230.sln: modified
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 HoloTutorial230\App.cs: 7A7F961C7465B6823E432FCCE7F0EACD
-HoloTutorial230\HoloTutorial230.csproj: 9A9BC816D13FEBED5CF447E8C5D61DC0
+HoloTutorial230\HoloTutorial230.csproj: modified
 HoloTutorial230\HoloTutorial230.csproj.user: modified
 HoloTutorial230\Package.appxmanifest: 840BB4E9F9056EC1996066096469E109
 HoloTutorial230\project.json: 1D02BC64BAC0D041019673A1C4C51737
