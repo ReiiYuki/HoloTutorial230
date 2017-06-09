@@ -5,12 +5,12 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-HoloTutorial230.sln: 4939A5A59855DC3BA02AC120DD163DCA
+HoloTutorial230.sln: modified
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 HoloTutorial230\App.cs: 7A7F961C7465B6823E432FCCE7F0EACD
-HoloTutorial230\HoloTutorial230.csproj: DE58B644FA1CFC5190C03A5234D03FC8
-HoloTutorial230\HoloTutorial230.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
+HoloTutorial230\HoloTutorial230.csproj: 9A9BC816D13FEBED5CF447E8C5D61DC0
+HoloTutorial230\HoloTutorial230.csproj.user: modified
 HoloTutorial230\Package.appxmanifest: 840BB4E9F9056EC1996066096469E109
 HoloTutorial230\project.json: 1D02BC64BAC0D041019673A1C4C51737
 HoloTutorial230\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
